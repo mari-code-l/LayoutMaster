@@ -109,11 +109,8 @@ a {
 footer.zone.yellow {
     text-align: center;
     background-color: #444;
-    font-size: 20px;
-    height: 40px;
-    padding: 5px 5px;
-    align-items: center;
-    justify-content: center;
+    font-size: 0.8em;
+    padding: 20px;
 }
 
 /*https://paulund.co.uk/how-to-create-shiny-css-buttons*/
